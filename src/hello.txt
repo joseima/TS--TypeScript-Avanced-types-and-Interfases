@@ -1,0 +1,7 @@
+
+// crear archivo de configurciób de TS: npx tsc --init
+//trnspilar npx tsc
+// trasnpilar automático: npx tsc --watch
+
+
+
