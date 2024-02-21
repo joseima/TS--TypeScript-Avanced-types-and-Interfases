@@ -1,2 +1,2 @@
-# TSC---Typos-avanzados
- TypeScript: Tipos Avanzados y Funciones
+# TSC Advanced Types 
+TypeScript: Advnced types and functions, ts-node
